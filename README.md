@@ -20,6 +20,7 @@
 
 ## signatures
 Monadic Cat! Hi~! UwU
+Blackfur hewwo fewwas hab a gud day
 
 ### Rules
 - Don't change someone elses signature.
