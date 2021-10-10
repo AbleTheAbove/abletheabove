@@ -4,7 +4,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbleTheAbove&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbleTheAbove&theme=github_dark)
 
-`Shell:` Nushell
+`Shell:` [AbleShell](https://github.com/AbleTheAbove/rash)
 
 `Terminal:` Alacritty
 
